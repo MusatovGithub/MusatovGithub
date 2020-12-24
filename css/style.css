@@ -234,3 +234,40 @@ body {
 .fetured__item-container {
     padding: 25px 29px 20px 16px;
 }
+.button_footer{
+    width: 211px;
+    height: 47px;
+    border: 1px solid rgba(242, 99, 118, 1);
+    background-color: #FFF;
+    color: rgba(242, 99, 118, 1) ;
+    margin-top: 48.5px;
+    margin-left: 695.5px;
+}
+.button_footer:hover{
+    color: #F7E4E2;
+    border-color: #F7E4E2;
+}
+.footer_top{
+    width: 1600px;
+    height: 341px;
+    background-color: black;
+    margin-top: 95.5px;
+}
+.footer_center{
+    width: 1600px;
+    height: 448px;
+    background-image: url(../img/footer-center-img.jpg);
+}
+.footer_bottom{
+    width: 1600px;
+    height: 79px;
+    background-color: black;
+}
+.footer_bottom-text{
+    font-size: 16px;
+    line-height: 19px;
+    color: #FBFBFB;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 235px;
+}
